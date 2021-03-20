@@ -6,4 +6,4 @@
 > ## **[https://yiy.one](https://yiy.one)**
 ## 备用登录网址：
 > ## **[https://ssrss.work](https://ssrss.work)**
-> ## **[https://ssrss.ga](https://ssrss.ga)**
+> ## **[https://ssrss.xyz](https://ssrss.xyz)**
