@@ -8,3 +8,7 @@
 > ## **[https://ssrss.xyz](https://ssrss.xyz)** 主网址打不开时可以先试试这个
 > ## **[https://ssrss.work](https://ssrss.work)**
 > ## **[https://ssrss.net](https://ssrss.net)**
+
+### 推荐一些优质网站：
+- 吾爱苹果账号网：各种苹果IOS系统资源，包括各种软件教程等等[[https://www.52appleid.com](https://www.52appleid.com)]
+- 极客导航网：各种优质的网站的导航集合[[https://tool.zmki.cn](https://tool.zmki.cn)]
