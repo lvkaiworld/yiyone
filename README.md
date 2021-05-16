@@ -5,5 +5,6 @@
 ## 登录网址：
 > ## **[https://yiy.one](https://yiy.one)**
 ## 备用登录网址：
+> ## **[https://ssrss.xyz](https://ssrss.xyz)** 主网址打不开时可以先试试这个
 > ## **[https://ssrss.work](https://ssrss.work)**
-> ## **[https://ssrss.xyz](https://ssrss.xyz)**
+> ## **[https://ssrss.net](https://ssrss.net)**
