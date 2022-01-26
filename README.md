@@ -11,4 +11,4 @@
 - 若以上网址都打不开，可以将DNS更换为119.29.29.29，三分钟后重启电脑再试试
 - 有问题请点网站右下角的客服头像给在线客服留言
 - 邮件联系: mailmyvps@protonmail.com (优先联系在线客服)
-- 备用公告板: [原始公告板](https://yiyone.work) [Github公告板](https://github.com/junwen0301/Announcement/)
+- 公告板: [原始公告板](https://yiyone.work) | [Github备用公告板](https://github.com/junwen0301/Announcement/)
