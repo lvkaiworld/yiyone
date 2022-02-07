@@ -12,7 +12,8 @@
 
 ## IOS:
 * **shadowrocket**：<br>
-![image](https://user-images.githubusercontent.com/98644184/152531460-789b93a2-22b5-4ba3-9bfe-4475a5f160c6.png)
+**注意：只有显示"ssrss.de"的订阅可更新！如果订阅显示的是"ssrss.tk"，请先左滑删除订阅，然后再重新添加！！！**
+![image](https://user-images.githubusercontent.com/31562400/152712427-59f53e70-1742-4db4-9155-b4738f9cb1f4.png)
 
 * **Quantumult**：已经不再支持，请更新成QuantumultX！然后首页点“更多客户端订阅”，找到QuantumultX的重新添加即可！
 
