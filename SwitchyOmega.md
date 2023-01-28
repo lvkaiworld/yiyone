@@ -3,7 +3,7 @@
 **第一步：安装SwitchyOmega插件**：
 
 - 【推荐】Edge浏览器安装方法：[点此跳转](https://microsoftedge.microsoft.com/addons/detail/proxy-switchyomega/fdbloeknjpnloaggplaobopplkdhnikc?hl=zh-CN)插件页面并点击安装
-- Chrome浏览器安装方法：[点此打开](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN)应用商店点【添加至Chrome】；如果无法访问应用商店，[点此下载离线安装包](https://dl.ssrss.club/SwitchyOmega_Chromium.rar)，然后参考百度经验教程安装（**注意插件后缀名是rar，解压后跳到百度经验里面的步骤4**）:[点此跳转到教程](https://jingyan.baidu.com/article/219f4bf7a0b737de442d38e8.html)
+- Chrome浏览器安装方法：[点此打开](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN)应用商店点【添加至Chrome】；如果无法访问应用商店，[点此下载离线安装包](https://dl.ssrss.club/SwitchyOmega_Chromium.zip)，然后参考百度经验教程安装（**注意插件后缀名是zip，解压后跳到百度经验里面的步骤4**）:[点此跳转到教程](https://jingyan.baidu.com/article/219f4bf7a0b737de442d38e8.html)
 
 **第二步：设置proxy模式**
 
